@@ -6,7 +6,7 @@ La plateforme combine **Machine Learning**, **IA générative**, **gamification*
 
 ---
 
-# 🎯 Objectif
+# Objectif
 
 Les solutions traditionnelles se concentrent principalement sur le blocage des menaces.
 
@@ -18,9 +18,9 @@ Notre mission est simple :
 
 ---
 
-# 🚀 Fonctionnalités
+# Fonctionnalités
 
-## 🔍 Détection intelligente des menaces
+## Détection intelligente des menaces
 
 ### Analyse hybride ML + IA
 
@@ -48,7 +48,7 @@ Cette approche permet :
 
 ---
 
-## 🧠 Détection des techniques d'ingénierie sociale
+## Détection des techniques d'ingénierie sociale
 
 L'IA identifie automatiquement :
 
@@ -63,7 +63,7 @@ L'IA identifie automatiquement :
 
 ---
 
-## 🎓 Formation adaptative
+## Formation adaptative
 
 Après chaque analyse :
 
@@ -85,7 +85,7 @@ Menace détectée : Fraude au Président
 
 ---
 
-## 🏆 Gamification
+## Gamification
 
 Pour maximiser l'engagement des collaborateurs :
 
@@ -97,7 +97,7 @@ Pour maximiser l'engagement des collaborateurs :
 
 ---
 
-## ❓ Quiz intelligents
+## Quiz intelligents
 
 Veillia génère automatiquement des quiz à partir des menaces analysées.
 
@@ -109,7 +109,7 @@ Objectif :
 
 ---
 
-## 📊 Dashboard Administrateur
+## Dashboard Administrateur
 
 Les responsables sécurité disposent d'une vue globale :
 
@@ -122,7 +122,7 @@ Les responsables sécurité disposent d'une vue globale :
 
 ---
 
-## ⚠️ Engine Disagreement
+## Engine Disagreement
 
 Veillia expose les divergences entre les moteurs d'analyse.
 
@@ -140,7 +140,7 @@ Cette transparence permet aux équipes sécurité de mieux comprendre les cas co
 
 ---
 
-# 🏗️ Architecture
+# Architecture
 
 ## Backend
 
@@ -174,7 +174,7 @@ Cette transparence permet aux équipes sécurité de mieux comprendre les cas co
 
 ---
 
-# 🔒 Sécurité & Confidentialité
+# Sécurité & Confidentialité
 
 Veillia adopte une approche "Privacy by Design".
 
@@ -196,7 +196,7 @@ Cette approche :
 
 ---
 
-# 📈 Vision
+# Vision
 
 Veillia n'est pas simplement un détecteur de phishing.
 
@@ -222,7 +222,7 @@ L'objectif final est de réduire durablement le risque humain au sein des organi
 
 ---
 
-# 🛠️ Installation
+# Installation
 
 ## Backend
 
@@ -252,7 +252,7 @@ npm run dev
 
 ---
 
-# 📄 Licence
+# Licence
 
 Projet développé dans un cadre éducatif et de recherche.
 
